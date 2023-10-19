@@ -1,3 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+<ModulePrefs title="Effing Worms Xmas" />
+<Content type="html"><![CDATA[
+
 <!DOCTYPE html>
 <html lang="en-us">
   <head>
@@ -68,3 +73,7 @@
     </script>
   </body>
 </html>
+
+
+]]></Content>
+</Module>
